@@ -1,0 +1,111 @@
+
+/* Class = "IBUITextField"; placeholder = "E-mail"; ObjectID = "01j-LF-gXQ"; */
+"01j-LF-gXQ.placeholder" = "E-mail";
+
+/* Class = "IBUILabel"; text = "Escoge TuCancha!"; ObjectID = "2gZ-Nh-irm"; */
+"2gZ-Nh-irm.text" = "Escoge TuCancha!";
+
+/* Class = "IBUITextField"; placeholder = "Contraseña"; ObjectID = "2l1-ql-Q3t"; */
+"2l1-ql-Q3t.placeholder" = "Contraseña";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "57e-ej-9lh"; */
+"57e-ej-9lh.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "Confirmar Contraseña"; ObjectID = "7Pc-Tf-RHh"; */
+"7Pc-Tf-RHh.placeholder" = "Confirmar Contraseña";
+
+/* Class = "IBUILabel"; text = "Disponible Pronto"; ObjectID = "7eu-Vw-SaW"; */
+"7eu-Vw-SaW.text" = "Disponible Pronto";
+
+/* Class = "IBUILabel"; text = "Al registrarte, indicas haber leído y aceptado los términos y condiciones de uso "; ObjectID = "Bs3-cl-fRg"; */
+"Bs3-cl-fRg.text" = "Al registrarte, indicas haber leído y aceptado los términos y condiciones de uso ";
+
+/* Class = "IBUILabel"; text = "Ocupada"; ObjectID = "CWt-cP-wOg"; */
+"CWt-cP-wOg.text" = "Ocupada";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "E3I-1K-wyS"; */
+"E3I-1K-wyS.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Cerrar Sesión"; ObjectID = "FHQ-mn-Mjk"; */
+"FHQ-mn-Mjk.normalTitle" = "Cerrar Sesión";
+
+/* Class = "IBUITextField"; placeholder = "Teléfono"; ObjectID = "HQz-uL-jh5"; */
+"HQz-uL-jh5.placeholder" = "Teléfono";
+
+/* Class = "IBUILabel"; text = "Disponible"; ObjectID = "IZD-qt-rzb"; */
+"IZD-qt-rzb.text" = "Disponible";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "J0C-NX-qGl"; */
+"J0C-NX-qGl.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "E-Mail"; ObjectID = "JqL-bu-t5X"; */
+"JqL-bu-t5X.placeholder" = "E-Mail";
+
+/* Class = "IBUILabel"; text = "No te despegues de TuCancha! "; ObjectID = "Kg1-54-Ivp"; */
+"Kg1-54-Ivp.text" = "No te despegues de TuCancha! ";
+
+/* Class = "IBUITextField"; placeholder = "Nombre"; ObjectID = "LO4-wm-RrZ"; */
+"LO4-wm-RrZ.placeholder" = "Nombre";
+
+/* Class = "IBUILabel"; text = "TuCancha Pro!"; ObjectID = "MqW-te-Fru"; */
+"MqW-te-Fru.text" = "TuCancha Pro!";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "PtK-k6-vhC"; */
+"PtK-k6-vhC.normalTitle" = "Volver";
+
+/* Class = "IBUIViewController"; title = "LoginViewController"; ObjectID = "RR4-v5-WMt"; */
+"RR4-v5-WMt.title" = "LoginViewController";
+
+/* Class = "IBUILabel"; text = "Disponible Pronto"; ObjectID = "TPC-Yp-3tV"; */
+"TPC-Yp-3tV.text" = "Disponible Pronto";
+
+/* Class = "IBUILabel"; text = "Disponible Pronto"; ObjectID = "X5e-83-ap4"; */
+"X5e-83-ap4.text" = "Disponible Pronto";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Y9m-1D-EKJ"; */
+"Y9m-1D-EKJ.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "bOw-v4-hC5"; */
+"bOw-v4-hC5.normalTitle" = "Volver";
+
+/* Class = "IBUILabel"; text = "Síguenos en las redes sociales y no te pierdas de nuestras ofertas!"; ObjectID = "bb6-eI-UDg"; */
+"bb6-eI-UDg.text" = "Síguenos en las redes sociales y no te pierdas de nuestras ofertas!";
+
+/* Class = "IBUIButton"; normalTitle = "Busca TuCancha!"; ObjectID = "cLs-je-cSj"; */
+"cLs-je-cSj.normalTitle" = "Busca TuCancha!";
+
+/* Class = "IBUINavigationItem"; title = "Tu Cancha"; ObjectID = "ec3-Gl-xm6"; */
+"ec3-Gl-xm6.title" = "Tu Cancha";
+
+/* Class = "IBUISearchBar"; placeholder = "Busca TuCancha"; ObjectID = "fLf-dJ-j5x"; */
+"fLf-dJ-j5x.placeholder" = "Busca TuCancha";
+
+/* Class = "IBUIButton"; normalTitle = "Crea tu Cuenta"; ObjectID = "h0Y-6E-jQM"; */
+"h0Y-6E-jQM.normalTitle" = "Crea tu Cuenta";
+
+/* Class = "IBUIButton"; normalTitle = "Ingresar"; ObjectID = "hiI-et-xNs"; */
+"hiI-et-xNs.normalTitle" = "Ingresar";
+
+/* Class = "IBUILabel"; text = "Disponible Pronto"; ObjectID = "i0H-BI-HFR"; */
+"i0H-BI-HFR.text" = "Disponible Pronto";
+
+/* Class = "IBUILabel"; text = "Disponible Pronto"; ObjectID = "ocl-rz-gjN"; */
+"ocl-rz-gjN.text" = "Disponible Pronto";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "p0f-Ig-aqh"; */
+"p0f-Ig-aqh.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Haz parte de TuCancha!"; ObjectID = "sEq-yW-6oD"; */
+"sEq-yW-6oD.text" = "Haz parte de TuCancha!";
+
+/* Class = "IBUIButton"; normalTitle = "Registrar"; ObjectID = "vR4-LZ-gbS"; */
+"vR4-LZ-gbS.normalTitle" = "Registrar";
+
+/* Class = "IBUITextField"; placeholder = "Contraseña"; ObjectID = "wA6-wJ-BTh"; */
+"wA6-wJ-BTh.placeholder" = "Contraseña";
+
+/* Class = "IBUILabel"; text = "Rápida"; ObjectID = "xNp-Fl-kj5"; */
+"xNp-Fl-kj5.text" = "Rápida";
+
+/* Class = "IBUIButton"; normalTitle = "X"; ObjectID = "zqg-nN-3YT"; */
+"zqg-nN-3YT.normalTitle" = "X";
